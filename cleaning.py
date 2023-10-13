@@ -1,4 +1,4 @@
-#Ogie, now this script works perfectly fine, running chromedriver selenium in the background,
+#Onow this script works perfectly fine, running chromedriver selenium in the background,
 #with time delay of 5s
 
 import csv
